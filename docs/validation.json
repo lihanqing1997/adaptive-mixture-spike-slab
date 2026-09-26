@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "numerical_tests": 25,
+  "saved_summary_reproduction": "passed",
+  "all_550_designs_match_original_arrays_within": 1e-10,
+  "local_fits_included": 480,
+  "cross_budget_comparisons": 210,
+  "plots_regenerated": 3,
+  "manuscripts_included": false
+}

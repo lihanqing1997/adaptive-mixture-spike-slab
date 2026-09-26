@@ -1,0 +1,29 @@
+{
+  "display_labels": [
+    "fig:joint-errors",
+    "tab:controlled-kl-contrasts",
+    "fig:refinement-effects",
+    "tab:designs",
+    "tab:formal-posterior",
+    "tab:formal-paired",
+    "tab:controlled-local-means",
+    "tab:controlled-budget-within",
+    "tab:two-group-errors",
+    "fig:two-group-decomposition"
+  ],
+  "independent_datasets": 550,
+  "local_fits": 480,
+  "manuscript_files_included": false,
+  "excluded": [
+    "preprints",
+    "manuscript sources and PDFs",
+    "editorial histories",
+    "old pilots",
+    "unused Xi-VI algorithms",
+    "redundant source snapshots",
+    "machine logs",
+    "large raw simulation archive",
+    "figures absent from current manuscript"
+  ],
+  "paper_title": "Adaptive Mixture Variational Inference for Spike-and-Slab Regression"
+}

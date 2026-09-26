@@ -1,0 +1,80 @@
+[
+  {
+    "id": "p100_rho0.7_r000",
+    "rho": 0.7,
+    "original_screen": false,
+    "old_amended_screen": true,
+    "long_amended_screen": true,
+    "retained_draws_per_chain": 8000,
+    "status": "draw_limit",
+    "mean_absolute_pip_difference": 0.0009143749999999979,
+    "max_absolute_pip_difference": 0.00403125,
+    "block_tv_difference": 0.0007500000000000204,
+    "max_event_mcse": 0.000780410281934216
+  },
+  {
+    "id": "p100_rho0.9_r000",
+    "rho": 0.9,
+    "original_screen": false,
+    "old_amended_screen": false,
+    "long_amended_screen": true,
+    "retained_draws_per_chain": 8000,
+    "status": "draw_limit",
+    "mean_absolute_pip_difference": 0.0012462500000000006,
+    "max_absolute_pip_difference": 0.012531249999999994,
+    "block_tv_difference": 0.012718749999999961,
+    "max_event_mcse": 0.005729390655833555
+  },
+  {
+    "id": "p100_rho0.7_r001",
+    "rho": 0.7,
+    "original_screen": false,
+    "old_amended_screen": true,
+    "long_amended_screen": true,
+    "retained_draws_per_chain": 8000,
+    "status": "draw_limit",
+    "mean_absolute_pip_difference": 0.001010625000000003,
+    "max_absolute_pip_difference": 0.011124999999999996,
+    "block_tv_difference": 0.001968749999999966,
+    "max_event_mcse": 0.0010645853058592774
+  },
+  {
+    "id": "p100_rho0.9_r001",
+    "rho": 0.9,
+    "original_screen": false,
+    "old_amended_screen": true,
+    "long_amended_screen": true,
+    "retained_draws_per_chain": 8000,
+    "status": "draw_limit",
+    "mean_absolute_pip_difference": 0.000969375,
+    "max_absolute_pip_difference": 0.0050625000000000045,
+    "block_tv_difference": 0.0030000000000000287,
+    "max_event_mcse": 0.0012850029666623619
+  },
+  {
+    "id": "p100_rho0.7_r002",
+    "rho": 0.7,
+    "original_screen": false,
+    "old_amended_screen": true,
+    "long_amended_screen": true,
+    "retained_draws_per_chain": 8000,
+    "status": "draw_limit",
+    "mean_absolute_pip_difference": 0.00108,
+    "max_absolute_pip_difference": 0.0039375000000000104,
+    "block_tv_difference": 0.0020312500000000174,
+    "max_event_mcse": 0.0008229375601728614
+  },
+  {
+    "id": "p100_rho0.9_r002",
+    "rho": 0.9,
+    "original_screen": true,
+    "old_amended_screen": true,
+    "long_amended_screen": true,
+    "retained_draws_per_chain": 8000,
+    "status": "draw_limit",
+    "mean_absolute_pip_difference": 0.0011453125000000005,
+    "max_absolute_pip_difference": 0.012999999999999998,
+    "block_tv_difference": 0.014624999999999996,
+    "max_event_mcse": 0.002997292021836283
+  }
+]

@@ -1,0 +1,278 @@
+[
+  {
+    "p": 20,
+    "rho": 0.7,
+    "planned": 50,
+    "completed": 50,
+    "eligible_references": 49,
+    "exact_reverse_kl": null,
+    "objective_difference": {
+      "n": 50,
+      "mean": -0.16791950374263792,
+      "interval": [
+        -0.1906182810173218,
+        -0.14522072646795403
+      ],
+      "negative": 50,
+      "positive": 0
+    },
+    "prediction_difference": {
+      "n": 50,
+      "mean": 9.981302498101544e-05,
+      "interval": [
+        -0.0024864874059549766,
+        0.0026861134559170072
+      ],
+      "negative": 16,
+      "positive": 34
+    },
+    "pip_difference": {
+      "n": 49,
+      "mean": -0.004426966905553553,
+      "interval": [
+        -0.005287417448297771,
+        -0.003566516362809335
+      ],
+      "negative": 49,
+      "positive": 0
+    },
+    "strong_mf": {
+      "prediction_mse": 0.10732287282772372,
+      "pip_mae": 0.010803655621765433,
+      "support_tv": 0.08726294521063079
+    },
+    "mixture": {
+      "prediction_mse": 0.10742268585270473,
+      "pip_mae": 0.006376688716211879,
+      "support_tv": 0.042736496006085645
+    },
+    "support_difference": {
+      "n": 49,
+      "mean": -0.04452644920454514,
+      "interval": [
+        -0.05858071303755372,
+        -0.030472185371536568
+      ],
+      "negative": 49,
+      "positive": 0
+    },
+    "original_screen_pip_difference": {
+      "n": 50,
+      "mean": -0.004488555120397302,
+      "interval": [
+        -0.00534021779240192,
+        -0.0036368924483926855
+      ],
+      "negative": 50,
+      "positive": 0
+    },
+    "mean_components": 9.9
+  },
+  {
+    "p": 20,
+    "rho": 0.9,
+    "planned": 50,
+    "completed": 50,
+    "eligible_references": 37,
+    "exact_reverse_kl": null,
+    "objective_difference": {
+      "n": 50,
+      "mean": -0.20154424275170427,
+      "interval": [
+        -0.24994419493311862,
+        -0.15314429057028991
+      ],
+      "negative": 50,
+      "positive": 0
+    },
+    "prediction_difference": {
+      "n": 50,
+      "mean": -0.006007854291432512,
+      "interval": [
+        -0.020182647788815872,
+        0.00816693920595085
+      ],
+      "negative": 21,
+      "positive": 29
+    },
+    "pip_difference": {
+      "n": 37,
+      "mean": -0.0059336694049821675,
+      "interval": [
+        -0.007999465004750263,
+        -0.0038678738052140716
+      ],
+      "negative": 37,
+      "positive": 0
+    },
+    "strong_mf": {
+      "prediction_mse": 0.09090977712577163,
+      "pip_mae": 0.019232219452106087,
+      "support_tv": 0.1935498509925868
+    },
+    "mixture": {
+      "prediction_mse": 0.0849019228343391,
+      "pip_mae": 0.013298550047123919,
+      "support_tv": 0.12372490476404183
+    },
+    "support_difference": {
+      "n": 37,
+      "mean": -0.06982494622854499,
+      "interval": [
+        -0.09717897516728752,
+        -0.04247091728980246
+      ],
+      "negative": 37,
+      "positive": 0
+    },
+    "original_screen_pip_difference": {
+      "n": 50,
+      "mean": -0.007843349186283141,
+      "interval": [
+        -0.011093704880285035,
+        -0.004592993492281247
+      ],
+      "negative": 50,
+      "positive": 0
+    },
+    "mean_components": 9.16
+  },
+  {
+    "p": 30,
+    "rho": 0.7,
+    "planned": 50,
+    "completed": 50,
+    "eligible_references": 49,
+    "exact_reverse_kl": null,
+    "objective_difference": {
+      "n": 50,
+      "mean": -0.14469740967734224,
+      "interval": [
+        -0.16735103629117992,
+        -0.12204378306350457
+      ],
+      "negative": 50,
+      "positive": 0
+    },
+    "prediction_difference": {
+      "n": 50,
+      "mean": 0.0034386118385982007,
+      "interval": [
+        0.0015917078208854784,
+        0.0052855158563109225
+      ],
+      "negative": 7,
+      "positive": 43
+    },
+    "pip_difference": {
+      "n": 49,
+      "mean": -0.002201346981686838,
+      "interval": [
+        -0.0027533719965386876,
+        -0.0016493219668349884
+      ],
+      "negative": 48,
+      "positive": 1
+    },
+    "strong_mf": {
+      "prediction_mse": 0.08158737281942827,
+      "pip_mae": 0.007414076759542134,
+      "support_tv": 0.07298567267315917
+    },
+    "mixture": {
+      "prediction_mse": 0.08502598465802647,
+      "pip_mae": 0.005212729777855295,
+      "support_tv": 0.043533502886327055
+    },
+    "support_difference": {
+      "n": 49,
+      "mean": -0.029452169786832114,
+      "interval": [
+        -0.04168205448280861,
+        -0.01722228509085562
+      ],
+      "negative": 48,
+      "positive": 1
+    },
+    "original_screen_pip_difference": {
+      "n": 50,
+      "mean": -0.002229138996063166,
+      "interval": [
+        -0.0027726032147179806,
+        -0.001685674777408351
+      ],
+      "negative": 49,
+      "positive": 1
+    },
+    "mean_components": 9.8
+  },
+  {
+    "p": 30,
+    "rho": 0.9,
+    "planned": 50,
+    "completed": 50,
+    "eligible_references": 29,
+    "exact_reverse_kl": null,
+    "objective_difference": {
+      "n": 50,
+      "mean": -0.2110869552081276,
+      "interval": [
+        -0.25469780908991785,
+        -0.16747610132633733
+      ],
+      "negative": 50,
+      "positive": 0
+    },
+    "prediction_difference": {
+      "n": 50,
+      "mean": -0.0019099488762080116,
+      "interval": [
+        -0.00729489007901967,
+        0.0034749923266036474
+      ],
+      "negative": 12,
+      "positive": 38
+    },
+    "pip_difference": {
+      "n": 29,
+      "mean": -0.002745861147184067,
+      "interval": [
+        -0.003469191710408773,
+        -0.002022530583959361
+      ],
+      "negative": 29,
+      "positive": 0
+    },
+    "strong_mf": {
+      "prediction_mse": 0.10973694732953752,
+      "pip_mae": 0.011109101126621194,
+      "support_tv": 0.12670078842122245
+    },
+    "mixture": {
+      "prediction_mse": 0.10782699845332953,
+      "pip_mae": 0.008363239979437125,
+      "support_tv": 0.09782187895225142
+    },
+    "support_difference": {
+      "n": 29,
+      "mean": -0.028878909468971026,
+      "interval": [
+        -0.04196657989256235,
+        -0.015791239045379706
+      ],
+      "negative": 28,
+      "positive": 1
+    },
+    "original_screen_pip_difference": {
+      "n": 50,
+      "mean": -0.00520736357305027,
+      "interval": [
+        -0.007268127266395255,
+        -0.003146599879705285
+      ],
+      "negative": 48,
+      "positive": 2
+    },
+    "mean_components": 9.52
+  }
+]

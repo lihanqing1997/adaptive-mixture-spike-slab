@@ -1,0 +1,234 @@
+[
+  {
+    "rho": 0.7,
+    "budget": 300,
+    "reference_budget": 120,
+    "planned": 10,
+    "differences": {
+      "objective": {
+        "n": 10,
+        "mean": -0.016613149132662385,
+        "interval": [
+          -0.02150841283551548,
+          -0.011717885429809291
+        ],
+        "negative": 10,
+        "positive": 0
+      },
+      "mse": {
+        "n": 10,
+        "mean": -0.00044994945792032476,
+        "interval": [
+          -0.004384518564080386,
+          0.0034846196482397366
+        ],
+        "negative": 3,
+        "positive": 7
+      },
+      "components": {
+        "n": 10,
+        "mean": 2.4,
+        "interval": [
+          1.8998182316122292,
+          2.9001817683877706
+        ],
+        "negative": 0,
+        "positive": 10
+      }
+    },
+    "original_eligible_pip_change": {
+      "n": 2,
+      "mean": -2.8204098132590368e-05,
+      "interval": [
+        -0.0027460338890709585,
+        0.0026896256928057773
+      ],
+      "negative": 1,
+      "positive": 1
+    },
+    "amended_eligible_pip_change": {
+      "n": 10,
+      "mean": -0.0001252555362236361,
+      "interval": [
+        -0.00027946167378527557,
+        2.8950601338003344e-05
+      ],
+      "negative": 7,
+      "positive": 3
+    }
+  },
+  {
+    "rho": 0.7,
+    "budget": 600,
+    "reference_budget": 120,
+    "planned": 10,
+    "differences": {
+      "objective": {
+        "n": 10,
+        "mean": -0.017141181177782273,
+        "interval": [
+          -0.02032165673382378,
+          -0.013960705621740769
+        ],
+        "negative": 10,
+        "positive": 0
+      },
+      "mse": {
+        "n": 10,
+        "mean": 0.0007406281268401711,
+        "interval": [
+          -0.0009604555562030838,
+          0.002441711809883426
+        ],
+        "negative": 3,
+        "positive": 7
+      },
+      "components": {
+        "n": 10,
+        "mean": 2.4,
+        "interval": [
+          1.8998182316122292,
+          2.9001817683877706
+        ],
+        "negative": 0,
+        "positive": 10
+      }
+    },
+    "original_eligible_pip_change": {
+      "n": 2,
+      "mean": -0.00023741732756827044,
+      "interval": [
+        -0.0002969409917805975,
+        -0.00017789366335594335
+      ],
+      "negative": 2,
+      "positive": 0
+    },
+    "amended_eligible_pip_change": {
+      "n": 10,
+      "mean": -0.000133190874207552,
+      "interval": [
+        -0.00023179920099409345,
+        -3.458254742101053e-05
+      ],
+      "negative": 7,
+      "positive": 3
+    }
+  },
+  {
+    "rho": 0.9,
+    "budget": 300,
+    "reference_budget": 120,
+    "planned": 10,
+    "differences": {
+      "objective": {
+        "n": 10,
+        "mean": -0.019179360730480967,
+        "interval": [
+          -0.03776603857508683,
+          -0.00059268288587511
+        ],
+        "negative": 10,
+        "positive": 0
+      },
+      "mse": {
+        "n": 10,
+        "mean": -0.0005640893799583726,
+        "interval": [
+          -0.002243781541569458,
+          0.0011156027816527124
+        ],
+        "negative": 7,
+        "positive": 3
+      },
+      "components": {
+        "n": 10,
+        "mean": 2.9,
+        "interval": [
+          2.372163328680419,
+          3.427836671319581
+        ],
+        "negative": 0,
+        "positive": 10
+      }
+    },
+    "original_eligible_pip_change": {
+      "n": 6,
+      "mean": -0.00045409740791843464,
+      "interval": [
+        -0.0010194778650519207,
+        0.00011128304921505136
+      ],
+      "negative": 6,
+      "positive": 0
+    },
+    "amended_eligible_pip_change": {
+      "n": 7,
+      "mean": -0.0004037131772874404,
+      "interval": [
+        -0.0008749706269399948,
+        6.754427236511392e-05
+      ],
+      "negative": 7,
+      "positive": 0
+    }
+  },
+  {
+    "rho": 0.9,
+    "budget": 600,
+    "reference_budget": 120,
+    "planned": 10,
+    "differences": {
+      "objective": {
+        "n": 10,
+        "mean": -0.020709281811468826,
+        "interval": [
+          -0.039116405754316505,
+          -0.0023021578686211464
+        ],
+        "negative": 10,
+        "positive": 0
+      },
+      "mse": {
+        "n": 10,
+        "mean": -0.0002990539007365695,
+        "interval": [
+          -0.0014001491425702063,
+          0.0008020413410970672
+        ],
+        "negative": 6,
+        "positive": 4
+      },
+      "components": {
+        "n": 10,
+        "mean": 2.7,
+        "interval": [
+          1.8705423736406583,
+          3.529457626359342
+        ],
+        "negative": 0,
+        "positive": 10
+      }
+    },
+    "original_eligible_pip_change": {
+      "n": 6,
+      "mean": -0.0003856144783579957,
+      "interval": [
+        -0.0009243828533116356,
+        0.0001531538965956442
+      ],
+      "negative": 5,
+      "positive": 1
+    },
+    "amended_eligible_pip_change": {
+      "n": 7,
+      "mean": -0.00033040308684088366,
+      "interval": [
+        -0.0007844053611597258,
+        0.00012359918747795846
+      ],
+      "negative": 5,
+      "positive": 2
+    }
+  }
+]

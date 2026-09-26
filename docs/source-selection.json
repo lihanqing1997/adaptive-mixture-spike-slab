@@ -1,0 +1,209 @@
+[
+  {
+    "path": "pyproject.toml",
+    "source": "repository/pyproject.toml",
+    "selection": "File used in the reported experiments."
+  },
+  {
+    "path": "requirements-reproduce.txt",
+    "source": "repository/requirements-reproduce.txt",
+    "selection": "File used in the reported experiments."
+  },
+  {
+    "path": "src/amvi/__init__.py",
+    "source": "repository/src/amvi/__init__.py",
+    "selection": "File used in the reported experiments."
+  },
+  {
+    "path": "src/amvi/solver.py",
+    "source": "repository/src/amvi/solver.py",
+    "selection": "File used in the reported experiments."
+  },
+  {
+    "path": "src/amvi/objectives.py",
+    "source": "repository/src/amvi/objectives.py",
+    "selection": "File used in the reported experiments."
+  },
+  {
+    "path": "src/amvi/local.py",
+    "source": "repository/src/amvi/local.py",
+    "selection": "File used in the reported experiments."
+  },
+  {
+    "path": "tests/test_local.py",
+    "source": "repository/tests/test_local.py",
+    "selection": "File used in the reported experiments."
+  },
+  {
+    "path": "tests/test_objectives.py",
+    "source": "repository/tests/test_objectives.py",
+    "selection": "File used in the reported experiments."
+  },
+  {
+    "path": "tests/test_solver.py",
+    "source": "repository/tests/test_solver.py",
+    "selection": "File used in the reported experiments."
+  },
+  {
+    "path": "src/amvi/_mixed_law.py",
+    "source": "redevelopment/joint_xi/simulation/adaptive_mixture/adaptive_xi.py",
+    "definitions": [
+      "InformationCache",
+      "Mixture",
+      "RegressionModel",
+      "component_costs",
+      "component_kl",
+      "make_joint_cache",
+      "meanfield"
+    ],
+    "selection": "Scientific definitions used by retained methods; obsolete launchers and studies excluded."
+  },
+  {
+    "path": "src/amvi/comparators.py",
+    "source": "redevelopment/joint_xi/simulation/mixture_vi/readiness_methods.py",
+    "definitions": [
+      "direct_sample",
+      "fit_variant",
+      "free_coordinates",
+      "importance_initializer",
+      "log_target",
+      "restricted_refine"
+    ],
+    "selection": "Scientific definitions used by retained methods; obsolete launchers and studies excluded."
+  },
+  {
+    "path": "src/amvi/initialization.py",
+    "source": "redevelopment/joint_xi/simulation/mixture_vi/run_overnight.py",
+    "definitions": [
+      "strong_meanfield"
+    ],
+    "selection": "Scientific definitions used by retained methods; obsolete launchers and studies excluded."
+  },
+  {
+    "path": "src/amvi/data.py",
+    "source": "redevelopment/joint_xi/simulation/mixture_vi/run_overnight.py",
+    "definitions": [
+      "make_data"
+    ],
+    "selection": "Scientific definitions used by retained methods; obsolete launchers and studies excluded."
+  },
+  {
+    "path": "src/amvi/data.py",
+    "source": "redevelopment/joint_xi/simulation/mixture_vi/run_two_groups.py",
+    "definitions": [
+      "make_data"
+    ],
+    "selection": "Scientific definitions used by retained methods; obsolete launchers and studies excluded."
+  },
+  {
+    "path": "src/amvi/exact.py",
+    "source": "redevelopment/joint_xi/simulation/joint_xi.py",
+    "definitions": [
+      "Model",
+      "exact_posterior",
+      "logsumexp",
+      "softmax"
+    ],
+    "selection": "Scientific definitions used by retained methods; obsolete launchers and studies excluded."
+  },
+  {
+    "path": "src/amvi/_transport.py",
+    "source": "redevelopment/joint_xi/simulation/joint_xi.py",
+    "definitions": [
+      "expand",
+      "feasible_round",
+      "log_product",
+      "logsumexp"
+    ],
+    "selection": "Scientific definitions used by retained methods; obsolete launchers and studies excluded."
+  },
+  {
+    "path": "src/amvi/_sinkhorn.py",
+    "source": "redevelopment/joint_xi/simulation/sinkhorn_scaling/benchmark.py",
+    "definitions": [
+      "certificate",
+      "solve"
+    ],
+    "selection": "Scientific definitions used by retained methods; obsolete launchers and studies excluded."
+  },
+  {
+    "path": "src/amvi/references.py",
+    "source": "redevelopment/joint_xi/simulation/mixture_vi/benchmarks.py",
+    "definitions": [
+      "SupportPosterior",
+      "_rhat_and_ess",
+      "_split",
+      "diagnostic",
+      "groups_for",
+      "posterior_mcmc",
+      "sinkhorn_correction"
+    ],
+    "selection": "Scientific definitions used by retained methods; obsolete launchers and studies excluded."
+  },
+  {
+    "path": "src/amvi/diagnostics.py",
+    "source": "redevelopment/joint_xi/simulation/mixture_vi/readiness_reference.py",
+    "definitions": [
+      "binary_diagnostic"
+    ],
+    "selection": "Scientific definitions used by retained methods; obsolete launchers and studies excluded."
+  },
+  {
+    "path": "src/amvi/metrics.py",
+    "source": "redevelopment/joint_xi/simulation/adaptive_mixture/pilot_support.py",
+    "definitions": [
+      "summaries"
+    ],
+    "selection": "Scientific definitions used by retained methods; obsolete launchers and studies excluded."
+  },
+  {
+    "path": "results/two_triplets/records.csv",
+    "source": "repository/evidence/main-study/redevelopment/joint_xi/simulation/mixture_vi/two_groups_correlations_20260921/analysis_20260922/dataset_diagnostics.csv",
+    "selection": "File used in the reported experiments."
+  },
+  {
+    "path": "results/local_refinement/arm_means.csv",
+    "selection": "File used in the reported experiments.",
+    "source_role": "Author-provided numerical result or figure"
+  },
+  {
+    "path": "results/local_refinement/budget_comparison.csv",
+    "selection": "File used in the reported experiments.",
+    "source_role": "Author-provided numerical result or figure"
+  },
+  {
+    "path": "results/local_refinement/dataset_metrics_128.csv",
+    "selection": "File used in the reported experiments.",
+    "source_role": "Author-provided numerical result or figure"
+  },
+  {
+    "path": "results/local_refinement/dataset_metrics_16.csv",
+    "selection": "File used in the reported experiments.",
+    "source_role": "Author-provided numerical result or figure"
+  },
+  {
+    "path": "results/local_refinement/stopping_diagnostics.csv",
+    "selection": "File used in the reported experiments.",
+    "source_role": "Author-provided numerical result or figure"
+  },
+  {
+    "path": "results/local_refinement/within_budget_contrasts.csv",
+    "selection": "File used in the reported experiments.",
+    "source_role": "Author-provided numerical result or figure"
+  },
+  {
+    "path": "results/figures/05_original_joint_uncertainty.pdf",
+    "selection": "File used in the reported experiments.",
+    "source_role": "Author-provided numerical result or figure"
+  },
+  {
+    "path": "results/figures/07_two_group_paired_effects.pdf",
+    "selection": "File used in the reported experiments.",
+    "source_role": "Author-provided numerical result or figure"
+  },
+  {
+    "path": "results/figures/08_two_group_kl_decomposition.pdf",
+    "selection": "File used in the reported experiments.",
+    "source_role": "Author-provided numerical result or figure"
+  }
+]

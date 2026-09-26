@@ -1,0 +1,5 @@
+# Environment used to validate the cleaned repository and original evidence.
+numpy==2.3.5
+scipy==1.18.1
+matplotlib==3.11.2
+pytest==9.1.1
